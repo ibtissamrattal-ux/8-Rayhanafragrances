@@ -10,7 +10,7 @@ if(isset($_SESSION['user_id'])){
     header("Location: home.php");
     exit();
 }
-
+// Variable destinée à stocker les messages d'erreur
 $error = "";
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
