@@ -7,7 +7,7 @@ if(!isset($_SESSION['user_id'])){
     exit();
 
 }
-
+// Récupérer l'identifiant de l'utilisateur
 $user_id = $_SESSION['user_id'];
 ?>
 <!DOCTYPE html>
