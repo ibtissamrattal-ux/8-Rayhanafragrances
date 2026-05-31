@@ -1,4 +1,4 @@
-
+// Fragrance Website - Cart system and product filtering
 function updateCartCount() {
 
 fetch('get-cart-count.php')
