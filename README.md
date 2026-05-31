@@ -27,6 +27,10 @@ Rayhana Fragrance est une boutique e-commerce de parfums développée dans le ca
 
 RayhanaFragrance/
 │
+├── documents/
+    ├──LIVRABLE 3(11).pdf
+   ├──livrable_2_8.pdf
+   ├──S1_fiche_projet (1) (1) (1).pdf
 ├── admin/
    ├──add-product.php
    ├──dashboard.php
