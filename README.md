@@ -134,12 +134,9 @@ Pour la mise en ligne :
 
 
 ## Membres de l'équipe
-
 - Ibtissam Rattal
-- Nom membre 2
-- Nom membre 3
-- Nom membre 4
-
+- Nouhaila Aitari
+- Rania Benraihane
 ## Statut du projet
 
 Projet de methodologie en developpement logiciel en cours de développement.
