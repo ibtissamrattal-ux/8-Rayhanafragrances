@@ -79,13 +79,13 @@ RayhanaFragrance/
 
 ## Technologies et outils utilisés
 
-### Développement
+## Prérequis
 
-* HTML5
-* CSS3
-* JavaScript
-* PHP
-* MySQL
+- WampServer 3.3.0
+- PHP 8.2
+- MySQL 8.0
+- Git 2.x
+- Navigateur Web moderne (Edge)
 
 ### Outils
 
@@ -124,6 +124,9 @@ Pour la mise en ligne :
 4. Mettre à jour les informations de connexion à la base de données dans `config.php`.
 5. Vérifier le bon fonctionnement du site en ligne.
 
+#site en ligne:
+http://rayhanafragrance.infinityfree.io/home.php
+
 ## Gestion du projet
 
 * Développement du code avec Visual Studio Code.
@@ -134,9 +137,10 @@ Pour la mise en ligne :
 
 
 ## Membres de l'équipe
-- Ibtissam Rattal
-- Nouhaila Aitari
-- Rania Benraihane
+ Ibtissam Rattal — Scrum Master — Gestion du projet, authentification et interface utilisateur
+- Rania Benraihane — Product Owner — Analyse des besoins et rédaction des livrables
+- Nouhaila Aitari— Développeur — Gestion du panier et commandes_Base de données et tests
+
 ## Statut du projet
 
 Projet de methodologie en developpement logiciel en cours de développement.
